@@ -7,7 +7,6 @@ Este projeto é um jogo da velha desenvolvido com .NET MAUI, permitindo que voc�
 - Verificação automática de todas as condições de vitória.
 - Detecção de empate (velha).
 - Reinício do jogo após o término.
-- Design moderno com gradientes e estilos customizados.
 
 ## 🛠️ Tecnologias Utilizadas
 - **.NET MAUI** para desenvolvimento multiplataforma.
