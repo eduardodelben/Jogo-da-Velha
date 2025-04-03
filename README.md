@@ -12,3 +12,5 @@ Este projeto é um jogo da velha desenvolvido com .NET MAUI, permitindo que voc�
 - **.NET MAUI** para desenvolvimento multiplataforma.
 - **C#** para lógica do jogo.
 - **XAML** para construção e estilização da interface do usuário.
+---
+💡 *Feito por [Eduardo Delben](https://github.com/eduardodelben)*
